@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuscaLinear", "BuscaLinear\BuscaLinear.csproj", "{EDF2C9EB-7985-439A-87AA-105054F9B89D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF2C9EB-7985-439A-87AA-105054F9B89D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF2C9EB-7985-439A-87AA-105054F9B89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF2C9EB-7985-439A-87AA-105054F9B89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF2C9EB-7985-439A-87AA-105054F9B89D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B52E017F-A1CA-4C69-A8ED-0586AFECE461}
+	EndGlobalSection
+EndGlobal
